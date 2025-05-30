@@ -1,5 +1,4 @@
-# プロジェクト名
-（例：Joystick-Motor Control Demo）
+
 
 ---
 
